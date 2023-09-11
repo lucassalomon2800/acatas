@@ -1,0 +1,8 @@
+{
+  "name": "ACATAS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b9ff86f2"
+}
